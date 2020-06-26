@@ -1,2 +1,2 @@
-# Houston Functions
-Azure Functions app for the Houston service.
+# Archived.
+Merged into [COSMOS](https://github.com/wrdsb/cosmos), June 26, 2020.
